@@ -104,4 +104,3 @@ if st.button("Calculate CO2 Emissions"):
             st.warning("The value for CO2 emissions (metric tons per capita) in Nigeria was 0.54 as of 2020. Over the past years, this indicator peaked at 0.69 in 1990.")
         elif country == "Rwanda":
             st.warning(" The latest value from 2020 is 0.11 metric tons, unchanged from 0.11 metric tons in 2019. In comparison, the world average is 3.84 metric tons, based on data from 185 countries. Historically, the average for Rwanda from 1990 to 2020 is 0.08 metric tons.")
-
