@@ -29,3 +29,8 @@ This is a web-based **Carbon Footprint Calculator** app built with **Streamlit**
    ```
    $ streamlit run Carbon_Footprint_Calculator_app.py
    ```
+3. View the app on your machine or mobile
+
+   ```
+   $ [streamlit run Carbon_Footprint_Calculator_app.py](https://carbon-emissions-calculator.streamlit.app/)
+   ```
