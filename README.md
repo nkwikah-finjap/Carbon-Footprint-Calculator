@@ -1,8 +1,20 @@
-# 🎈 Blank app template
+# Carbon Footprint Calculator 👣
 
-A simple Streamlit app template for you to modify!
+This is a web-based **Carbon Footprint Calculator** app built with **Streamlit**. The app allows individuals or organizations to calculate their annual carbon footprint based on transportation, electricity usage, diet, and waste generation. The emission factors are country-specific and currently support Cameroon, Nigeria, and Rwanda.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+
+## 🌟 Features
+- Calculates annual carbon footprint in tonnes of CO2.
+- Includes transportation, electricity, diet, and waste emissions.
+- Country-specific emission factors for Cameroon, Nigeria, and Rwanda.
+- User-friendly interface with sliders and inputs for flexibility.
+- Displays detailed breakdown of emissions by category.
+
+
+## ⚙️ How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/nkwikah-finjap/Carbon-Footprint-Calculator.git
 
 ### How to run it on your own machine
 
@@ -15,5 +27,5 @@ A simple Streamlit app template for you to modify!
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run Carbon_Footprint_Calculator_app.py
    ```
